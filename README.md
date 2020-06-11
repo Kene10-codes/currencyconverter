@@ -1,2 +1,2 @@
 # currencyconverter.github.io
-This is a currency converter app.
+This is a respnive currency converter app.
