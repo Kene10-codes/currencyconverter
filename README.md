@@ -1,2 +1,2 @@
 # currencyconverter.github.io
-This is a responive currency converter app.
+This is a responsive currency converter app.
