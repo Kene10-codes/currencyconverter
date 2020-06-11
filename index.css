@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #1c1424;
+    color: #d6d6d6; 
+}
+
+/*Mobile CSS*/
+
+.top h1 {
+    font-size: 45px;
+    margin: 80px 0 0 0;
+}
+
+
+.top p {
+    margin-top: 10px; 
+    padding-left: 20px; 
+}
+
+.top button {
+    height: 60px;
+    width: 150px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.bottom h4 {
+    margin-top:  80px;
+}
+.bottom form {
+    height: 75vh;
+    background: #342b47;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    clear: both;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.bottom form input {
+    width: 100%;
+    border-radius: 6px;
+    height: 40px;
+    padding: 8px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.bottom form div {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 80px;
+    padding: 30px 0 0 8px;
+}
+
+.color1 {
+    background: #4a142d;
+}
+
+.color2 {
+    background: #8c0d28;
+}
+
+/*Desktop CSS*/
+
+.right h1 {
+    font-size: 62px;
+    margin: 160px 0 0 60px;
+}
+
+.right p {
+    margin-left:  60px;
+}
+
+button {
+    height: 60px;
+    width: 190px;
+    border-radius: 8px;
+    margin-left: 60px;
+}
+
+.left h4 {
+    margin-top:  100px;
+}
+.left form {
+    height: 75vh;
+    background: #342b47;
+    width: 400px;
+    margin: 20px 0 0 70px;
+    clear: both;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.left form input {
+    width: 100%;
+    border-radius: 6px;
+    height: 40px;
+    padding: 8px;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.left form div {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 80px;
+    padding: 30px 0 0 8px;
+}
+
+.color1 {
+    background: #4a142d;
+}
+
+.color2 {
+    background: #8c0d28;
+}
+
+
